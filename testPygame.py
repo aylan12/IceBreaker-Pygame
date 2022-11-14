@@ -17,7 +17,7 @@ lives = 3
 
 size = (800, 600)
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption("Ice Breaker")
+pygame.display.set_caption("Quan and Ayla's Ice Breaker")
 
 import pygame
 pygame.init()
@@ -102,12 +102,12 @@ RED = (255,0,0)
 ORANGE = (255,100,0)
 YELLOW = (255,255,0)
  
-score = 0
+score = 3
 lives = 3
  
 size = (800, 600)
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption("Breakout Game")
+pygame.display.set_caption("Brickbuster")
  
 all_sprites_list = pygame.sprite.Group()
  
